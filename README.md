@@ -7,4 +7,5 @@ Mac users have git pre-installed. If you are a linux user, we'll assume you know
 On all OS's open a terminal with bash/zsh running. On OSX this is `Terminal.app`, on linux `New Terminal`, and on windows `git-bash` terminal.
 
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/univai-ghf/GitAndHubWorkshop/HEAD)
 
