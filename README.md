@@ -4,7 +4,7 @@ Students on Windows should install [git for windows](https://git-scm.com/downloa
 
 Mac users have git pre-installed. If you are a linux user, we'll assume you know what you are doing and have installed git.
 
-We'll be using https://github.com/univai/toplay . We're gonna fork this repository and play with it.
+We'll be using <https://github.com/univai/toplayml> . We're gonna fork this repository and play with it.
 
 On all OS's open a terminal with bash/zsh running. On OSX this is `Terminal.app`, on linux `New Terminal`, and on windows `git-bash` terminal.
 
